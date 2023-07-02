@@ -1,0 +1,9 @@
+---------------------
+ CREDITS
+---------------------
+
+	- Bootstrap 5       -  https://getbootstrap.com
+
+	- FontAwesome       -  https://fontawesome.com/start
+
+	- Timezz            -  https://github.com/BrooonS/timezz
